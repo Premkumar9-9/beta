@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cool Website</title>
+<style>
+body {
+  background-color: #333;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  margin-top: 10px;
+}
+</style>
+</head>
+<body>
+<h1>This is a cool website!</h1>
+<p>This website is made with GitHub Pages. It's a free and easy way to host your website on GitHub.</p>
+<p>To learn more about GitHub Pages, visit the following link: <a href="https://pages.github.com/">https://pages.github.com/</a></p>
+</body>
+</html>
